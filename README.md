@@ -15,4 +15,4 @@
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=ffffff"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alszero)](https://github.com/alszero/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alszero)](https://github.com/alszero/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alszero&show_icons=true)
