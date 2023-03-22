@@ -1,5 +1,8 @@
 <div align = "center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Min%20Young&fontSize=90&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Min%20Young&fontSize=90&animation=twinkling" /><br>
+  <a href="https://hits.seeyoufarm.com">
+	  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falszero&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=github&edge_flat=false"/>
+	</a>
  </div>
 
 <div align="center">
@@ -24,7 +27,11 @@
 </div>
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alszero&layout=compact"><br><br>
-	<img src="https://github-readme-stats.vercel.app/api?username=alszero&show_icons=true">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alszero&layout=compact">
+	<img src="https://github-readme-stats.vercel.app/api?username=alszero&show_icons=true"><br>
+</div>
+<br>
+<div align=center>
 	
+![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=alszero)
 </div>
