@@ -6,19 +6,24 @@
  </div>
 
 <div align="center">
-	<h3> Platforms & Languages </h3>
+	<h3>Platforms & Languages</h3>
+  <div style="display: flex; align-items: flex-start;">
+	 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="44" height="44" />
+	 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="44" height="44" />
+	 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="44" height="44" />
+	 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="44" height="44" />
+  </div>
+  <div>
 	<img src="https://img.shields.io/badge/HTML5-FFD400?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-FFD400?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-FFD400?style=flat&logo=JavaScript&logoColor=white"/>
-	<img src="https://img.shields.io/badge/React-FFD400?style=flat&logo=REACT&logoColor=white"/><br/>
-	<img src="https://img.shields.io/badge/Java-00264B?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-FFD400?style=flat&logo=CSS3&logoColor=white" /><br/>
 	<img src="https://img.shields.io/badge/PHP-00264B?style=flat&logo=PHP&logoColor=white"/>
 	<img src="https://img.shields.io/badge/C-00264B?style=flat&logo=C&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Oracle-00264B?style=flat&logo=ORACLE&logoColor=white"/>
 	<img src="https://img.shields.io/badge/SQLite-00264B?style=flat&logo=SQLITE&logoColor=white"/>
-	<img src="https://img.shields.io/badge/MYSQL-00264B?style=flat&logo=MYSQL&logoColor=white"/>
 	<img src="https://img.shields.io/badge/NODE.js-00264B?style=flat&logo=NODE.JS&logoColor=white"/>
+	</div>
 </div>
+
 
 <div align="center">
 	<h3> Tools </h3>
