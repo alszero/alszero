@@ -40,3 +40,6 @@
 	
 ![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=alszero)
 </div>
+<div align=center>
+	[![GitHub Streak](https://streak-stats.demolab.com?user=alszero&theme=dark&hide_border=true)](https://git.io/streak-stats)
+</div>
