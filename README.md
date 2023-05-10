@@ -38,5 +38,5 @@
 <br>
 <div align=center>
 	
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=alszero)
+<!-- ![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=alszero) -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=beakqzang0506)](https://solved.ac/beakqzang0506)
