@@ -30,14 +30,16 @@
 	<img src="https://img.shields.io/badge/Visual Studio-007ACC?style=flat&logo=Visual Studio&logoColor=ffffff"/> <img src="https://img.shields.io/badge/VisualStudio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=ffffff"/>
 	<img src="https://img.shields.io/badge/Eclipse IDE-007ACC?style=flat&logo=Eclipse IDE&logoColor=ffffff"/><br><br>
 </div>
+<hr/>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=alszero&theme=tokyonight&show_icons=true" width="50%" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alszero&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
 
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alszero&layout=compact">
-	<img src="https://github-readme-stats.vercel.app/api?username=alszero&show_icons=true"><br>
-</div>
-<br>
-<div align=center>
-	
-<!-- ![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=alszero) -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=beakqzang0506)](https://solved.ac/beakqzang0506)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alszero&theme=tokyonight)](https://git.io/streak-stats)
+
 ![](./profile-3d-contrib/profile-green-animate.svg)
